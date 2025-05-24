@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@plugin "daisyui";
+
+
+
+
+.protest-guerrilla-regular {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-style: normal;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
